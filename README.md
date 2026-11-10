@@ -1,6 +1,6 @@
-<img align="right" src="assets/avatar.png" width="128" alt="Pixel-art portrait of Minrui Chen" />
-
 # 陳 民瑞 · Minrui Chen
+
+<img align="right" src="assets/avatar.png" width="128" alt="Pixel-art portrait of Minrui Chen" />
 
 **九州大学大学院システム情報科学府 博士後期課程**  
 PhD student, Graduate School of Information Science and Electrical Engineering, Kyushu University
