@@ -38,11 +38,6 @@ An auditable benchmark examining structure matching and annotation bias in glyca
 
 *Bioinformatics Advances*, 2026 · [論文 / Paper](https://doi.org/10.1093/bioadv/vbag308)
 
-### [Single-cell perturbation review](https://github.com/leochenminrui/single-cell-perturbation-review-data)
-
-シングルセル摂動予測の評価設計と汎化に関する系統的レビューのデータ・分析資料。  
-Data and analyses for a systematic review of evaluation design and reported generalization in single-cell perturbation prediction.
-
 ---
 
 **研究業績 / Publications:** [日本語](https://leochenminrui.github.io/ja/publications/) · [English](https://leochenminrui.github.io/en/publications/)
