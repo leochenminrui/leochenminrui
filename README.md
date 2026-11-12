@@ -15,29 +15,6 @@ PhD student, Graduate School of Information Science and Electrical Engineering, 
 
 I study machine learning for scientific discovery, with a focus on molecular design, single-cell perturbation modeling, and formal verification. I am interested in models that use chemical and biological structure, and in methods for checking their predictions and reasoning. My current work spans cyclic-peptide property prediction, virtual cells, and applications of formal methods in chemistry.
 
-## 主な公開プロジェクト / Selected projects
-
-### [CycSite](https://github.com/leochenminrui/CycSite)
-
-環状ペプチドの膜透過性予測に向けた、部位を考慮した化学構造改変のモデルと評価。  
-Site-conditioned chemical edits for cyclic-peptide permeability modeling.
-
-*Journal of Cheminformatics* — 受理済み / Accepted · [プレプリント / Preprint](https://doi.org/10.21203/rs.3.rs-9541490/v1)
-
-### [SAPSE-Synergy](https://github.com/leochenminrui/SAPSE-Synergy)
-
-ニューラル定理証明と形式的な証明チェックを結ぶ検索・検証パイプライン。  
-A retrieval and verification pipeline connecting neural theorem proving with formal proof checking.
-
-*Formal Methods (FM 2026)* · [論文 / Paper](https://doi.org/10.1007/978-3-032-26204-2_8)
-
-### [GlycoAudit](https://github.com/leochenminrui/GlycoAudit)
-
-糖鎖と結合因子の関係ランキングにおける、構造の対応付けとアノテーションの偏りを検証するベンチマーク。  
-An auditable benchmark examining structure matching and annotation bias in glycan–agent relation ranking.
-
-*Bioinformatics Advances*, 2026 · [論文 / Paper](https://doi.org/10.1093/bioadv/vbag308)
-
 ---
 
 **研究業績 / Publications:** [日本語](https://leochenminrui.github.io/ja/publications/) · [English](https://leochenminrui.github.io/en/publications/)
